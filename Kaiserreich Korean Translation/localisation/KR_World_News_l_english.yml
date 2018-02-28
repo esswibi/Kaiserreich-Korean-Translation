@@ -725,7 +725,7 @@ worldnews.276.b:0 "마침내 로마가 우리 것이다!"
 worldnews.276.c:0 "[old_controller.GetNameDef]가 로마를 되찾을 수 있을까?"
 
 worldnews.277.t:0 "빈 함락"
-worldnews.277.d:0 "Vienna has blissfully been spared occupation by a foreign power for over 500 years...until today. A few days ago, the [new_controller.GetAdjective] army pinned the remaining [old_controller.GetAdjective] soldiers on the banks of the Danube, and rumour has it that the [old_controller.GetAdjective] royal family fled while they could. Now the city is completely controlled by [new_controller.GetNameDef], its many artists and musicians living in apprehension of what will become of this cultural bastion of Europe.\n\n[new_controller.GetNameDef] is planning a great military parade around the Ringstrasse in celebration of this massive military feat, and the [new_controller.GetAdjective] general in charge of the occupation is going to address citizens from the balcony off of Neue Burg to try to ease the worries of a population worn by weeks of fighting."
+worldnews.277.d:0 "다행스럽게도 비엔나는 외부 세력의 점령으로부터 500년동안이나 안전했습니다... 오늘까지는 말이죠. 몇 일전, [new_controller.GetAdjective]의 군대가 다뉴브 은행에 남아있는 [old_controller.GetAdjective]의 병사들을 소탕했고, [old_controller.GetAdjective]의 왕실이 도시를 떠날 수 있을 때 도망쳤다는 소문이 돌고 있습니다. 지금, 도시는 완전히 에 의해 장악되었고, 그곳에 살고 있는 많은 예술가와 음악가들은 이 유럽의 문화 요새가 어떻게 될지 염려하고 있습니다. [new_controller.GetNameDef]는 이 엄청난 군사적 업적의 달성을 축하하기 위해 링슈트라세에서 열병식을 계획중이며, [new_controller.GetNameDef]의 점령군 사령관은 노이에부르크의 발코니에서 수주일동안 전투에 시달린 주민들의 걱정을 덜어주기 위해 시민들에게 연설을 할 예정입니다."
 worldnews.277.a:0 "빈이 함락되었다고? 어떻게 이럴 수가 있어?!"
 worldnews.277.b:0 "마침내 빈이 우리 것이다!"
 worldnews.277.c:0 "[old_controller.GetNameDef]가 많이 동요하는 것으로 보인다"
