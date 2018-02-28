@@ -147,11 +147,11 @@ SOV_EUR_FIN_desc:0 "러시아 내전 동안 반동 핀란드 왕국에게 카렐
 
 ### Domestic Events ###
 sovd.1.t:0 "프룬제가 승리를 선언하다"
-sovd.1.d:0 "Standing high on a pile of destroyed reactionary monuments in the recently reclaimed red square Mikhail Frunze announces his victory to his supporters in the first Soviet elections. With Soviet power, Russia will no longer be the punching bag of the world'"
+sovd.1.d:0 "되찾은 붉은 광장의 부서진 반동적 기념물들 위에서 미하일 프룬제는 그의 승리를 제 1차 소비에트 선거에서의 지지자들에게 알렸습니다. 소비에트의 힘과 함께 러시아는 더 이상 세계의 동네북이 아닙니다."
 sovd.1.a:0 "소비에트 러시아는 우릴 승리로 이끌 것이다!"
 sovd.1.b:0 "Let him keep his hat, though."
 sovd.2.t:0 "부하린이 승리를 선언하다"
-sovd.2.d:0 "After working tirelessly to bring the Soviet state back to life and winning the first Soviet elections Bukharin addresses the Soviet people in a live radio broadcast from Petrograd, announcing his victory. He also declared that the city shall be renamed Leningrad in honour of the eternal revolutionary and the ideological visionary of the new Soviet Union."
+sovd.2.d:0 "소비에트 국가에 활기를 되찾아주고, 제1차 소비에트 선거에서 승리하기 위해 쉴새없이 노력한 뒤, 부하린은 페트로그라드의 라디오 방송을 통해 소비에트 인민들에게 자신의 승리를 알렸습니다. 그는 영원한 혁명가이자 새로운 소련의 사상적 선지자를 기리기 위해 도시의 이름을 레닌그라드로 바꿔야함을 선언했습니다."
 sovd.2.a:0 "소비에트 연방은 결코 부서지지 않는다!"
 sovd.3.t:0 "투하체프스키가 승리를 선언하다"
 sovd.3.d:0 "In a major public event held in Moscow, attended by socialist revolutionaries and diplomats from all over the world, the newly elected Mikhail Tukhachevsky has promised support for fellow workers attempting to free themselves throughout the world. 'The new Soviet Republic is the homeland of all workers' - he was quoted saying."
